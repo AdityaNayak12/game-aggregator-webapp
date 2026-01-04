@@ -1,1 +1,1 @@
-# Hackathon_23_08
+# Game Aggregator WebApp
